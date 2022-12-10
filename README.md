@@ -1,6 +1,8 @@
 # compile-apk-helloworld-in-termux
 Go from zero to APK with tools available from apt in termux.  No gradle, no maven, no IDE just CLI.
 
+30Mb for this (in large part its android's 'android.jar') plus maybe 200MB from apt.
+
 pdbqpdbqpdbqpdbqpdbqpdbqpdbqpdbqpdbqpdbqpdbqpdbqp
 
 `git clone https://github.com/rocket-pig/compile-apk-helloworld-in-termux`
@@ -35,7 +37,7 @@ The build script runs from outside the project folder:
 
 I left the generated keystore in there for if the keysigner tool isnt around or doesnt work or whatever.  I also just copied over the `android.jar` and couple of tools from the bloated 90GB ball of shite that google has you download...everything to build _should_ be here aside from what termux's pkg manager has...
 
-gluck! hae fun! dont ever call me again!
+gluck! have fun! dont ever call me again!
 
 #### EXAMPLE LOG OUTPUT FOR FUNSIES ####
 
