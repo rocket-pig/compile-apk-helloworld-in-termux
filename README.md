@@ -31,9 +31,9 @@ Yep, I'll stick with developing things in javascript and python...you essentiall
 SO:
 
 The build script runs from outside the project folder:
-`./build.sh helloworld/` _in_theory_ would be it, but my money's on it taking some pounds of flesh from you too before you see "Install this now?" and Google's idiotic warnings that they didnt approve of your 30KB homebrew app
+`./build.sh project/` _in_theory_ would be it, but my money's on it taking some pounds of flesh from you too before you see "Install this now?" and Google's idiotic warnings that they didnt approve of your 30KB homebrew app
 
-I left the generated keystore in there for if the keysigner tool isnt around or doesnt work or whatever.  I also just copied over the `android.jar` and couple of tools from the bloated 90GB ball of shite that google has you download...everything to build /should/ be here aside from what termux's pkg manager has...
+I left the generated keystore in there for if the keysigner tool isnt around or doesnt work or whatever.  I also just copied over the `android.jar` and couple of tools from the bloated 90GB ball of shite that google has you download...everything to build _should_ be here aside from what termux's pkg manager has...
 
 gluck! hae fun! dont ever call me again!
 
