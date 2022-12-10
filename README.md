@@ -1,5 +1,7 @@
 # compile-apk-helloworld-in-termux
-Go from zero to APK with tools available from apt in termux.  No gradle, no maven, no IDE just CLI. 
+Go from zero to APK with tools available from apt in termux.  No gradle, no maven, no IDE just CLI.
+`git clone https://github.com/rocket-pig/compile-apk-helloworld-in-termux`,`apt install aapt2 dx zip openjdk-17`,`cd compile-apk-helloworld-in-termux`,`./build.sh project/` and the rest of this is just me huffing and puffing to nobody
+
 
 
 This took me over 100 hours to accomplish.  I am no Java expert, nor at this point do I want to be.  It is exceedingly unlikely that this will instantly work for you, without some more cryptic compilation error and fucking with environment vars and wondering why the whole chaotic tangled mess is so obscenely FRAGILE.
