@@ -1,23 +1,22 @@
 # compile-apk-helloworld-in-termux
 Go from zero to APK with tools available from apt in termux.  No gradle, no maven, no IDE just CLI.
 
-  .--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
+  .--.      .--.      .--.      .--.      .--.      .--.      .`-.      .--.
 :::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
-'      `--'      `.-'      `--'      `--'      `--'      `-.'      `--'      `
+'       '--'      '--'      '--'      '--'      '--'      '-.'      '--'      `
 
-`git clone https://github.com/rocket-pig/compile-apk-helloworld-in-termux`,
+`git clone https://github.com/rocket-pig/compile-apk-helloworld-in-termux`
 
-`apt install aapt2 dx zip openjdk-17`,
+`apt install aapt2 dx zip openjdk-17`
 
-`cd compile-apk-helloworld-in-termux`,
+`cd compile-apk-helloworld-in-termux`
 
 `./build.sh project/` 
 
 ...and the rest of this is just me huffing and puffing to nobody
 
-  .--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
-:::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
-'      `--'      `.-'      `--'      `--'      `--'      `-.'      `--'      `
+
+.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.
 
 
 This took me over 100 hours to accomplish.  I am no Java expert, nor at this point do I want to be.  It is exceedingly unlikely that this will instantly work for you, without some more cryptic compilation error and fucking with environment vars and wondering why the whole chaotic tangled mess is so obscenely FRAGILE.
@@ -29,11 +28,7 @@ I had begun intending to get to WebView, and then switch to creating in javascri
 Yep, I'll stick with developing things in javascript and python...you essentially get the same
 "write once run everywhere" virtual machine situation, and they don't hate your guts for trying to use them
 
-
-___ ("""-.___ ("""-.___ ("""-.___ ("""-.___ ("""-.___ ("""-.___ ("""-.
- __) "")   __) "")   __) "")   __) "")   __) "")   __) "")   __) "")
-(__,-""   (__,-""   (__,-""   (__,-""   (__,-""   (__,-""   (__,-""
-
+.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.
 
 SO:
 
