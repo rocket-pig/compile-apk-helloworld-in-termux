@@ -3,6 +3,8 @@ Go from zero to APK with tools available from apt in termux.  No gradle, no mave
 
 30Mb for this (in large part its android's 'android.jar') plus maybe 200MB from apt (which is largely openjdk-17).
 
+..oh yeah, one last thing, I left the compiled apk in all its splendor in the build folder if'n you want a hot preview 
+
 pdbqpdbqpdbqpdbqpdbqpdbqpdbqpdbqpdbqpdbqpdbqpdbqp
 
 `git clone https://github.com/rocket-pig/compile-apk-helloworld-in-termux`
