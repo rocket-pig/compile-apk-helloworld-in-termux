@@ -1,6 +1,8 @@
 # compile-apk-helloworld-in-termux
 Go from zero to APK with tools available from apt in termux.  No gradle, no maven, no IDE just CLI.
 
+Update: I took this much further with [this project](https://github.com/rocket-pig/GPT3-Android)
+
 30Mb for this (in large part its android's 'android.jar') plus maybe 200MB from apt (which is largely openjdk-17).
 
 The build script is the main sell here. A thousand googles it took me to put together how these things (air quotes) "work together", and many more hours before the chain of events actually cooperated. It's heavily commented so you, too, can lurn how android turns making a zipfile with some java in it into a life-shattering ten-day-long ordeal 
